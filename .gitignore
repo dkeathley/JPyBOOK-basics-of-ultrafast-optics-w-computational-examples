@@ -13,7 +13,6 @@ __pycache__/
 DATA/
 
 # H5 and mat files
-*.h5
 *.mat
 
 # Ignore the build folder

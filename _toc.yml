@@ -5,4 +5,5 @@ format: jb-book
 root: intro
 chapters:
 - file: recitation-2
+- file: recitation-4
 - file: recitation-5
