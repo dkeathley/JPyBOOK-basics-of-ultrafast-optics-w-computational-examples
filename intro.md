@@ -1,11 +1,19 @@
-# Welcome to your Jupyter Book
+# Basics of Ultrafast Optics with Computational Examples
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+This book serves as an introduction to the basics of ultrafast optics with an emphasis on computational methods with examples. While many texts exist that already cover analytical methods for ultrafast optics, here we rather spend more time on developing tools and techniques for the computational analysis of ultrafast optics.  
 
-Check out the content pages bundled with this sample book to see more.
+Topics covered include:
+
+ - An introduction to complex notation for representing ultrafast pulses in the time and frequency domains
+ - Pulse interactions with reflecting/transmitting elements and cavities
+ - Linear pulse propagation in dispersive media
+ - Nonlinear pulse propagation in dispersive media with an emphasis on self-phase modulation and supercontinuum generation
+ - Fundamentals of mode-locking
+ - Fundamentals of pulse characterization with examples
+   - Phase retrieval using Frequency-Resolved Optical Gating (FROG)
+   - Waveform measurements using nonlinear cross-correlations
+
+# Table of Contents
 
 ```{tableofcontents}
 ```
