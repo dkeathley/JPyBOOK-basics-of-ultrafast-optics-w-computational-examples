@@ -4,7 +4,7 @@ This book serves as an introduction to the basics of ultrafast optics with an em
 
 Topics covered include:
 
- - An introduction to complex notation for representing ultrafast pulses in the time and frequency domains
+ - Introduction to complex notation for representing ultrafast pulses in the time and frequency domains
  - Pulse interactions with reflecting/transmitting elements and cavities
  - Linear pulse propagation in dispersive media
  - Nonlinear pulse propagation in dispersive media with an emphasis on self-phase modulation and supercontinuum generation
