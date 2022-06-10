@@ -17,6 +17,10 @@ DATA/
 
 # Ignore the build folder
 _build/*
+gh-pages
+
+# Ignore ltximg folders
+**/ltximg/*
 
 # Distribution / packaging
 .Python
